@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ef5350</color>
+    <color name="colorPrimaryDark">#b61827</color>
+    <color name="colorAccent">#8d6e63</color>
+    <color name="productGridBackgroundColor">#ffffff</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#ef5350</color>
+    <color name="purple_700">#ef5350</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_launch">#212121</color>
+</resources>

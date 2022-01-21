@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822956496438",
+    "project_id": "app-dota",
+    "storage_bucket": "app-dota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822956496438:android:b5fbe28c9579f264d56a97",
+        "android_client_info": {
+          "package_name": "com.example.app_dota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822956496438-quhjdberr96givie0j6p9422ipmo4o5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LyCsoPHXAWWzDfHf5DKhXYEnyuM1nkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822956496438-quhjdberr96givie0j6p9422ipmo4o5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

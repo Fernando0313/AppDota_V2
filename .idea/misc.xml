@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10208333333333333" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10208333333333333" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/font/abel.xml" value="0.2546875" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_sign_up.xml" value="0.12771739130434784" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_store_menu.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_subir_img.xml" value="0.25" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/activity_upload_img.xml" value="0.25" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/fragment_heroe_list.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/hero_grid_fragment.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/heroe_card.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/heroe_list_item.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/my_error_dialog_login.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/supload_img.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/layout/upload_img.xml" value="0.1" />
+        <entry key="..\:/5to Ciclo/App_dota/app/src/main/res/menu/toolbar_menu.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

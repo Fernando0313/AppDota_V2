@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Store Dota</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_next">Next</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="error_password">Password must contain al least 6 characters.</string>
+    <string name="Heroe_title">Name</string>
+    <string name="product_description">Description Text</string>
+
+
+
+
+    <string name="action_add">Add</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_about">Sobre la App</string>
+
+
+
+    <string name="btn_save">Save</string>
+    <string name="btn_edit">Edit</string>
+</resources>
